@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DifferentLanguageSupport</string>
+    <string name="name">Welcome</string>
+    <string name="email">nirmalnirman36@gmail.com</string>
+    <string name="password">password</string>
+    <string name="address">Moldiar Tola ,Pipal Tar ,Mokama </string>
+    <string name="qualification">Diploma Engineering</string>
+    <string name="corr_Address">Flat No-102,Anand Vihar Apartment ,Telegraph Colony,Patna-1</string>
+    <string name="post">Software Engineer</string>
+    <string name="current_profile">Android Developer</string>
+    <string name="language">Change Your Language</string>
+</resources>

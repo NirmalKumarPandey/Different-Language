@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">विभिन्न भाषा समर्थन</string>
+    <string name="name">स्वागत हे</string>
+    <string name="email">nirmalnirman36@gmail.com</string>
+    <string name="password">पारण शब्द</string>
+    <string name="address">मोढियार टोला, पीपल टार, मोकामा </string>
+    <string name="qualification">डिप्लोमा इंजीनियरिंग</string>
+    <string name="corr_Address">फ्लैट नंबर -102, आनंद विहार अपार्टमेंट, टेलीग्राफ कॉलोनी, पटना -1</string>
+    <string name="post">सॉफ्टवेयर इंजीनियर</string>
+    <string name="current_profile">Android डेवलपर</string>
+    <string name="language">अपनी भाषा बदलें</string>
+</resources>

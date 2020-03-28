@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Supporto linguistico diverso</string>
+    <string name="name">benvenuto</string>
+    <string name="email">nirmalnirman36@gmail.com</string>
+    <string name="password">parola dordine</string>
+    <string name="address">Tonnellata di muffa, catrame di pipal, Mokama </string>
+    <string name="qualification">Ingegneria dei Diplomi</string>
+    <string name="corr_Address">Appartamento No-102, Appartamento Anand Vihar, Colonia del Telegrafo, Patna-1</string>
+    <string name="post">Ingegnere del software</string>
+    <string name="current_profile">Sviluppatore Android</string>
+    <string name="language">Cambia la tua lingua</string>
+</resources>
