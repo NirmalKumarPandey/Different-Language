@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Supporto linguistico diverso</string>
+    <string name="name">Herzlich willkommen</string>
+    <string name="email">nirmalnirman36@gmail.com</string>
+    <string name="password">Passwort</string>
+    <string name="address">Moldiar Tola, Pipal Tar, Mokama</string>
+    <string name="qualification">Diplom Ingenieurwesen</string>
+    <string name="post">Softwareentwickler</string>
+    <string name="current_profile">Android-Entwickler</string>
+    <string name="language">Cambia la tua lingua</string>
+    <string name="corr_Address">Tonnellata di muffa, catrame di pipal, Mokama</string>
+
+</resources>
